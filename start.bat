@@ -1,4 +1,5 @@
 cd C:\workspaces\resources
+C:
 
 git add .
 git status
